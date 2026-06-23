@@ -1,5 +1,5 @@
 """
-Actor-Critic Calculation Demo
+Policy Gradient Calculation Demo (REINFORCE)
 For AI Engineering (Fundamental) Class, LU Lab., Myanmar
 """
 

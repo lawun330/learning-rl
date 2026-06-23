@@ -1,5 +1,5 @@
 """
-Actor-Critic Calculation Demo
+Monte Carlo Calculation Demo
 For AI Engineering (Fundamental) Class, LU Lab., Myanmar
 """
 

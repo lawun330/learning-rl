@@ -1,5 +1,5 @@
 """
-Actor-Critic Calculation Demo
+Dynamic Programming Calculation Demo
 For AI Engineering (Fundamental) Class, LU Lab., Myanmar
 """
 

@@ -1,5 +1,5 @@
 """
-Actor-Critic Calculation Demo
+Temporal Difference Calculation Demo
 For AI Engineering (Fundamental) Class, LU Lab., Myanmar
 """
 

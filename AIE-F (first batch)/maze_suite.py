@@ -1,5 +1,5 @@
 """
-Actor-Critic Calculation Demo
+Maze Suite Demo
 For AI Engineering (Fundamental) Class, LU Lab., Myanmar
 """
 
